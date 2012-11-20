@@ -1,0 +1,17 @@
+[alias]
+  st = status
+  br = branch
+  ci = commit -v
+
+[color]
+  diff = auto
+  status = auto
+  branch = auto
+  ui = always
+
+[core]
+  editor = "vim"
+  excludesfile = ~/.gitignore
+[user]
+  email = niranirao@gmail.com
+  name = nirasan
