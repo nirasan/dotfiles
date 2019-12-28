@@ -2,6 +2,7 @@
   st = status
   br = branch
   ci = commit -v
+  diffc = diff --cached
 
 [color]
   diff = auto
